@@ -1,1 +1,1 @@
-# CS205-C-C-projects
+# CS205-C/C++-projects
