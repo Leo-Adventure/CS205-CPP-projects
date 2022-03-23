@@ -14,7 +14,9 @@ Please implement a program to multiply two matrices in two files.
 
 There are 6 files in the attachment. mat-A-32.txt is for matrix A, the matrix size is 32x32. Other files are similar. 
 
-1. When you run the program as follows, it will output the result into an output file such as `out32.txt`  $./matmul mat-A-32.txt mat-B-32.txt out32.txt $.
+1. When you run the program as follows, it will output the result into an output file such as `out32.txt`  
+ 
+   $./matmul mat-A-32.txt mat-B-32.txt out32.txt $.
 
    $./matmul mat-A-256.txt mat-B-256.txt out256.txt $
 
