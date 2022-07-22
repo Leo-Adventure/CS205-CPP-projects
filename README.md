@@ -2,6 +2,16 @@
 
 # CS205-C/C++-projects
 
+| Project       | Score | Comments                                                     |
+| ------------- | ----- | ------------------------------------------------------------ |
+| 大数高精度    | 95    |                                                              |
+| 矩阵乘法      | 97    |                                                              |
+| 矩阵乘法 by C | 96    |                                                              |
+| 矩阵类实现    | 94    | ROI 实现有更好的方法                                         |
+| CNN           | 99    | 非常细致地比较了很多操作方法的速度，非常好，后续我要采用你的一些建议来更新我的开源项目 libfacedetection |
+
+
+
 ## Integer Multiplication
 
 A high accuracy Integer Multiplication is implemented in this project.
@@ -17,7 +27,7 @@ Please implement a program to multiply two matrices in two files.
 There are 6 files in the attachment. mat-A-32.txt is for matrix A, the matrix size is 32x32. Other files are similar. 
 
 1. When you run the program as follows, it will output the result into an output file such as `out32.txt`  
- 
+
    $./matmul mat-A-32.txt mat-B-32.txt out32.txt $.
 
    $./matmul mat-A-256.txt mat-B-256.txt out256.txt $
