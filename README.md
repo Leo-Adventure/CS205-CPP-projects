@@ -2,6 +2,8 @@
 
 # CS205-C/C++-projects
 
+Lectured by Professor Shiqi Yu
+
 | Project       | Score | Comments                                                     |
 | ------------- | ----- | ------------------------------------------------------------ |
 | 大数高精度    | 95    |                                                              |
