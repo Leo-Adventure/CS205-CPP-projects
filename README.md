@@ -4,6 +4,8 @@
 
 Lectured by Professor Shiqi Yu
 
+**Final Score: 95**
+
 | Project       | Score | Comments                                                     |
 | ------------- | ----- | ------------------------------------------------------------ |
 | 大数高精度    | 95    |                                                              |
