@@ -2,7 +2,7 @@
 
 # CS205-C/C++-projects
 
-Lectured by Professor (Shiqi Yu)[https://faculty.sustech.edu.cn/yusq/en/]
+Lectured by Professor [Shiqi Yu](https://faculty.sustech.edu.cn/yusq/en/)
 
 **Final Score: 95**
 
