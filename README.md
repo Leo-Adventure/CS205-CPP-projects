@@ -2,7 +2,7 @@
 
 # CS205-C/C++-projects
 
-Lectured by Professor Shiqi Yu
+Lectured by Professor (Shiqi Yu)[https://faculty.sustech.edu.cn/yusq/en/]
 
 **Final Score: 95**
 
@@ -112,7 +112,7 @@ Do not use any third-party library except OpenCV to read image data from image f
 
 In this project 5, I paid a lot of efforts in it and I was honorly selected as an example report by my Prof.
 
-The link is https://github.com/ShiqiYu/CPP/blob/main/projects/Project5-goodexamples-2021fall-by%E5%BB%96%E9%93%AD%E9%AA%9E.pdf
+The link is https://github.com/ShiqiYu/CPP/blob/main/projects/2021Fall/Project5-goodexamples-2021fall-by廖铭骞.pdf
 
 ## Thinking 
 
